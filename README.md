@@ -17,7 +17,7 @@ Gosto muito de tecnologia e tudo que ela envolve
 Sou muito curioso
 
 ## 🛠 Habilidades
-**Inglês** - Avançado
+**Inglês** - Avançado;
 
 **Java** - Linguagem que possuo mais conhecimento;
 
