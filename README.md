@@ -9,25 +9,25 @@
   <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramalhin&layout=compact&title_color=D41b22&text_color=ffffff&bg_color=0d1117" />
 </div>
 
-## 🚀 Sobre mim
-Estudante de ciência da computação, Aspirante a desenvolvedor Java
+## 🚀 About me
+Computer Science student, hoping to be a great Developer
 
-Gosto muito de tecnologia e tudo que ela envolve
+I am into technology and everything it envolves
 
-Sou muito curioso
+I'm very curious
 
-## 🛠 Habilidades
-**Inglês** - Avançado;
+## 🛠 Skills
+**English** - Avançado;
 
-**Java** - Linguagem que possuo mais conhecimento;
+**Java** - Intermediate;
 
-**JavaScript** - conhecimentos básicos;
+**JavaScript** - Basic;
 
-**HTML e CSS** - conhecimentos básicos;
+**HTML e CSS** - Basic;
 
-**Python** - conhecimentos básicos;
+**Python** - Intermediate;
 
-**Banco de Dados** - "MySQL";
+**Data Base** - "MySQL" - Basic;
 
   ##
 <div style="display: inline_block">
@@ -40,7 +40,7 @@ Sou muito curioso
 
   ##
 <div align="left" >
-  <h3>Contatos</h3>
+  <h3>Contacts</h3>
   <a href = "mailto:jrs.ramalho2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joão-ramalho-sampaio-3a1a75228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
