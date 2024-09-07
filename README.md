@@ -17,7 +17,7 @@ I am into technology and everything it envolves
 I'm very curious
 
 ## 🛠 Skills
-**English** - Avançado;
+**English** - Advanced;
 
 **Java** - Intermediate;
 
