@@ -10,11 +10,19 @@
 </div>
 
 ## 🚀 About me
-Computer Science student, hoping to be a great Developer
+I am a Software Engineer, aiming to further develop my skills and contribute to impactful projects at the marketplace. My key skills include:
 
-I am into technology and everything it envolves
+-AWS
+-RESTful API development
+-Unit and automation testing with tools such as JUnit 5, Selenium, and PyTest
+-Web application development using frameworks like Spring Boot (Java) and Django (Python)
+-Data manipulation and analysis with Pandas and NumPy
+-Design patterns and version control with Git and GitHub
+-B2-level fluency in English
+-Scrum
+-Basic Japanese
 
-I'm very curious
+I am a technology enthusiast, deeply engaged in software engineering, always trying to learn and improve my professional and personal abilities.
 
 ## 🛠 Skills
 **English** - Advanced;
@@ -23,11 +31,11 @@ I'm very curious
 
 **JavaScript** - Basic;
 
-**HTML e CSS** - Basic;
+**HTML and CSS** - Basic;
 
 **Python** - Intermediate;
 
-**Data Base** - "MySQL" - Basic;
+**Data Base** - "MySQL", "DynamoDB", "Kendra"(Vector Database), "Postgree";
 
   ##
 <div style="display: inline_block">
@@ -46,3 +54,4 @@ I'm very curious
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D41b22&height=150&section=footer"/>
+
